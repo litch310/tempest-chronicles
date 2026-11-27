@@ -39,4 +39,4 @@ Needs a 64-bit (arm64) Android device, which covers essentially all phones from 
 
 ## Version
 
-**0.6.4** — tap an icon to read what it does. **0.6.3** — 60 fps on phones, Vulkan or OpenGL on phone and PC. **0.6.2** — crash logs you can copy from Settings and send us. **0.6.1** — online fixes and phones start on OpenGL. **0.6** — the Tide Bringers, online Blood Feud on our own server, food you can watch being made, and our own soundtrack. Campaign mode is on the way.
+**0.6.5** — phones join online without frozen or doubled peasants, and less lag. **0.6.4** — tap an icon to read what it does. **0.6.3** — 60 fps on phones, Vulkan or OpenGL on phone and PC. **0.6.2** — crash logs you can copy from Settings and send us. **0.6.1** — online fixes and phones start on OpenGL. **0.6** — the Tide Bringers, online Blood Feud on our own server, food you can watch being made, and our own soundtrack. Campaign mode is on the way.
