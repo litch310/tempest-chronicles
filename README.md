@@ -7,7 +7,7 @@ rivals — against the computer or against friends.
 
 | Platform | File | Notes |
 |----------|------|-------|
-| **Windows** (64-bit) | `TempestChronicles.exe` + `libtempest.windows.template_release.x86_64.dll` | No install. Keep both files in the same folder, then double-click the exe. |
+| **Windows** (64-bit) | `TempestChronicles-Windows.zip` | No install. Unzip it, open the `TempestChronicles` folder and double-click `TempestChronicles.exe`. |
 | **Android** (64-bit / arm64) | `TempestChronicles.apk` | Sideload it (see below). |
 
 Grab the files from the [**latest release**](../../releases/latest).
